@@ -5,5 +5,6 @@ void setup()
 
 void draw()
 {
-  text("Hello Git!", 100, 100);
+  text("Hello Graham!", 100, 100);
+  ellipse(250, 250, 100, 100);
 }
